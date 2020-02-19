@@ -25,7 +25,7 @@ function flatten(array, accumulator = []) {
 module.exports = function boxAround(__feature, options = { paddingMeters: 10000 }) {
   let coordinates = [];
   if (__feature.type === 'Feature') {
-    coordinates = flatten(feature.geometry.coordinates);
+    coordinates = flatten(__feature.geometry.coordinates);
   }
   if (__feature.type === 'FeatureCollection') {
     coordinates = flatten(
