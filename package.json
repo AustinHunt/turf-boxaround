@@ -1,6 +1,6 @@
 {
   "name": "turf-boxaround",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates a box around any GeoJSON feature or feature collection.",
   "main": "index.js",
   "repository": "https://github.com/AustinHunt/turf-boxaround.git",
