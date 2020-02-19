@@ -6,5 +6,9 @@
   "repository": "https://github.com/AustinHunt/turf-boxaround.git",
   "author": "Austin N. Hunt",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "keywords": [
+    "turf",
+    "gis"
+  ]
 }
