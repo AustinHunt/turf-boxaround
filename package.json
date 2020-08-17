@@ -5,6 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/AustinHunt/turf-boxaround.git",
   "author": "Austin N. Hunt",
+  "types": "index.d.ts",
   "license": "MIT",
   "private": false,
   "keywords": [
